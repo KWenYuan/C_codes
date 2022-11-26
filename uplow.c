@@ -16,11 +16,16 @@ int main(void) {
     // Print out the string before any changes
     printf("Before change: %s\n", string);
 
+    // Calling function to change string to uppercase
     toUpper(buffer, string);
     
+    // Print out the string after toUpper function is passed
     printf("After to upper: %s\n", buffer);
-
+    
+    // Calling function to change string to lowercase
     toLower(buffer, string);
+    
+    // Print out the string after toLower function is passed    
     printf("After to lower: %s\n", buffer);
 }
 
