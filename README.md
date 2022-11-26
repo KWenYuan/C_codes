@@ -7,4 +7,4 @@ The code may not be the most efficient but it will work
 
 Currently have:
 
-**reverse.c** - Function to reverse an array
++ **reverse.c** - Function to reverse an array
