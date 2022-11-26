@@ -6,4 +6,5 @@ It is just simple projects for me to see and refer to.
 The code may not be the most efficient but it will work
 
 Currently have
+
 **reverse.c** - Function to reverse an array
